@@ -1,0 +1,8 @@
+C:\Users\andre\source\repos\GestorDeEstoqueOO\GestorDeEstoqueOO\bin\Debug\GestorDeEstoqueOO.exe.config
+C:\Users\andre\source\repos\GestorDeEstoqueOO\GestorDeEstoqueOO\bin\Debug\GestorDeEstoqueOO.exe
+C:\Users\andre\source\repos\GestorDeEstoqueOO\GestorDeEstoqueOO\bin\Debug\GestorDeEstoqueOO.pdb
+C:\Users\andre\source\repos\GestorDeEstoqueOO\GestorDeEstoqueOO\obj\Debug\GestorDeEstoqueOO.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\GestorDeEstoqueOO\GestorDeEstoqueOO\obj\Debug\GestorDeEstoqueOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\GestorDeEstoqueOO\GestorDeEstoqueOO\obj\Debug\GestorDeEstoqueOO.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\GestorDeEstoqueOO\GestorDeEstoqueOO\obj\Debug\GestorDeEstoqueOO.exe
+C:\Users\andre\source\repos\GestorDeEstoqueOO\GestorDeEstoqueOO\obj\Debug\GestorDeEstoqueOO.pdb
